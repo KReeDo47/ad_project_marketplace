@@ -58,6 +58,7 @@ export default {
       promo: false,
     };
   },
+  
   methods: {
     createAd() {
       if (this.$refs.form.validate()) {

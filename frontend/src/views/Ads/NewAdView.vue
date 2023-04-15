@@ -73,12 +73,4 @@ export default {
 };
 </script>
   
-  <script>
-  export default {
-    name: 'NewAdView',
-    date() {
-      return {
-      }
-    }
-  }
-  </script>
+  

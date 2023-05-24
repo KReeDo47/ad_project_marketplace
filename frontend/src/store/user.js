@@ -7,6 +7,7 @@ class User {
 }
 
 
+
 export default {
 	state: {
         user: null
